@@ -1,0 +1,18 @@
+Jobs - lista jobów i ich status
+
+Stages - lista stage'ów i informacje o nich
+
+
+Storage - informacja a danych cache'owanych, widać co ile zajmuje
+
+Environment - informacje o środowisku np. wersja scali
+
+
+Executors - executory sparka, podział na aktywne, martwe i informacje o executorach
+
+
+Sql - zapytania sql, schematy i fizyczne plany
+
+JDBC - podpięcie do bazy danych
+
+Structured Streaming - strumieniowanie danych
